@@ -25,4 +25,8 @@ Inserta aquí la captura del código o de la ejecución.
 Inserta aquí una segunda captura si aplica.
 - Archivo: ![alt text](image-1.png)
 
+### Captura 3
+- Archivo :![alt text](image-2.png)
 
+### Captura 4
+- Archivo :![alt text](image-3.png)
